@@ -1,6 +1,6 @@
 [project]
 name = "pocket-tts"
-requires-python = ">= 3.10,<3.15"
+requires-python = ">= 3.11,<3.15"
 description = "Kyutai's pocket-sized TTS!"
 version = "1.0.1"
 readme = "README.md"
